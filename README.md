@@ -1,6 +1,6 @@
 # 🌐 Web Portfolio - Nathan Paputungan
 
-Website ini dibuat sebagai tugas pembuatan website menggunakan HTML, CSS, dan JavaScript.
+Website ini dibuat sebagai tugas pembuatan website menggunakan HTML dan CSS.
 
 ## 🔗 Link Live Website
 [Klik di sini untuk melihat hasil deploy](https://natangit137.github.io/web-portfolio/)
@@ -14,4 +14,3 @@ Website ini dibuat sebagai tugas pembuatan website menggunakan HTML, CSS, dan Ja
 ## 🛠️ Teknologi
 - HTML5
 - CSS3
-- JavaScript
