@@ -3,7 +3,7 @@
 Website ini dibuat sebagai tugas pembuatan website menggunakan HTML, CSS, dan JavaScript.
 
 ## 🔗 Link Live Website
-[Klik di sini untuk melihat hasil deploy](https://username.github.io/nama-repo/)
+[Klik di sini untuk melihat hasil deploy](https://natangit137.github.io/web-portfolio/)
 
 ## 📋 Fitur
 - Halaman Home, About, Contact
